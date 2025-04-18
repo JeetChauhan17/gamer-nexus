@@ -6,5 +6,6 @@
 
 Your project is live at:
 
-**[https://vercel.com/jwork18t-gmailcoms-projects/gamer-nexus](https://vercel.com/jwork18t-gmailcoms-projects/gamer-nexus)**
+**[https://gamer-nexus-m.vercel.app/](https://gamer-nexus-m.vercel.app/)**
+
 
