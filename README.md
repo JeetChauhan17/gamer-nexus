@@ -113,9 +113,18 @@ gamer-nexus/
 ```
 
 ---
+## Note : 
+- Games and game data are dynamically fetched fron a Game API. So no content is hardcoded.
+- News data, wiki data, reddit communities and discussions are fetched from APIs. There is no hardcoded data.
+- Auth support is currently down due to MongoDB's cloud cluster issues. Will be back up soon
+- This MongoDB's cluster downtime might cause some functionalities like (forums, wikis, review) to malfunction or not work. I am working on getting it back up ASAP. 
+---
 
 ## ✅ To-Do
 
+- [ ] Fix MongoDB's Cluster issue or setup new cluster.
+- [x] get  wikis back up.
+- [ ] get working forums (fix auth by fixing mongo)
 - [ ] Implement dynamic fetching of YouTube creators
 - [x] Redesign and render the GameDev resource page as a static page
 - [ ] Enhance search functionality with history support
